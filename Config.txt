@@ -1,3 +1,8 @@
 
-Banco de Dados SQLServer no Docker
+Banco de Dados SQLServer no Docker [https://www.youtube.com/watch?v=y0G-4ZMFT4M&ab_channel=Espa%C3%A7oDigital]
 docker run -e "ACCEPT_EULA=1" -e "MSSQL_SA_PASSWORD=MyPassword123#" -e "MSSQL_PID=Developer" -e "MSSQL_USER=SA" -p 1433:1433 -d --name=sql mcr.microsoft.com/azure-sql-edge
+
+Banco 
+server: localhost
+User: sa
+Senha: MyPassword123#

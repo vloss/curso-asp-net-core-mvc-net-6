@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macbookprom1devinicius/Sites/curso-asp-net-core-mvc-net-6/MVC_2022/MVC_2022/MVC_2022.csproj": {}
+    "/Users/macbookprom1devinicius/Sites/curso-asp-net-core-mvc-net-6/01_MVC_2022/MVC_2022/MVC_2022.csproj": {}
   },
   "projects": {
-    "/Users/macbookprom1devinicius/Sites/curso-asp-net-core-mvc-net-6/MVC_2022/MVC_2022/MVC_2022.csproj": {
+    "/Users/macbookprom1devinicius/Sites/curso-asp-net-core-mvc-net-6/01_MVC_2022/MVC_2022/MVC_2022.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macbookprom1devinicius/Sites/curso-asp-net-core-mvc-net-6/MVC_2022/MVC_2022/MVC_2022.csproj",
+        "projectUniqueName": "/Users/macbookprom1devinicius/Sites/curso-asp-net-core-mvc-net-6/01_MVC_2022/MVC_2022/MVC_2022.csproj",
         "projectName": "MVC_2022",
-        "projectPath": "/Users/macbookprom1devinicius/Sites/curso-asp-net-core-mvc-net-6/MVC_2022/MVC_2022/MVC_2022.csproj",
+        "projectPath": "/Users/macbookprom1devinicius/Sites/curso-asp-net-core-mvc-net-6/01_MVC_2022/MVC_2022/MVC_2022.csproj",
         "packagesPath": "/Users/macbookprom1devinicius/.nuget/packages/",
-        "outputPath": "/Users/macbookprom1devinicius/Sites/curso-asp-net-core-mvc-net-6/MVC_2022/MVC_2022/obj/",
+        "outputPath": "/Users/macbookprom1devinicius/Sites/curso-asp-net-core-mvc-net-6/01_MVC_2022/MVC_2022/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/macbookprom1devinicius/.nuget/NuGet/NuGet.Config"
