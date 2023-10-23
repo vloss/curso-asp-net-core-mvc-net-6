@@ -1,4 +1,35 @@
 ﻿<Properties StartupConfiguration="{D22383C2-1FD9-4A1C-B182-80936C8BAC9A}|Default">
-  <MonoDevelop.Ide.ItemProperties.02__LachesMac FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.02__LachesMac PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="02_LachesMac/appsettings.json">
+    <Files>
+      <File FileName="02_LachesMac/Models/Categoria.cs" Line="13" Column="1" />
+      <File FileName="02_LachesMac/Models/Lanche.cs" Line="17" Column="29" />
+      <File FileName="02_LachesMac/02_LachesMac.csproj" Line="19" Column="71" />
+      <File FileName="02_LachesMac/Context/AppDbContext.cs" Line="12" Column="51" />
+      <File FileName="02_LachesMac/appsettings.json" Line="3" Column="23" />
+      <File FileName="02_LachesMac/Program.cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="02_LachesMac">
+            <Node name="02_LachesMac">
+              <Node name="Context" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
