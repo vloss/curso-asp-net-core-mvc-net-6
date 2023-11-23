@@ -1,8 +1,25 @@
 {
   "version": 2,
-  "dgSpecHash": "DSJdf4cinsl1tUAUVfvM8B+IyKNNoTTwzfxPJ5DKhtgJgubUIAXQYfw4nvlYZcY7tYzGBWqoDjwpCe/4D1Po3w==",
+  "dgSpecHash": "qfydzaaZZTWUEJ6WCPZEWbdiKIwQLce43ovkrQ4tQqtNKTABBXnjAZkpk+/oLgq00Dw+RV03oOE8mNrz6j7NKg==",
   "success": true,
   "projectFilePath": "/Users/macbookprom1devinicius/Sites/curso-asp-net-core-mvc-net-6/00_CRUD_MYSQL/WebMvcMysql/WebMvcMysql/WebMvcMysql.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/macbookprom1devinicius/.nuget/packages/microsoft.entityframeworkcore/7.0.0/microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
+    "/Users/macbookprom1devinicius/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.0/microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",
+    "/Users/macbookprom1devinicius/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.0/microsoft.entityframeworkcore.analyzers.7.0.0.nupkg.sha512",
+    "/Users/macbookprom1devinicius/.nuget/packages/microsoft.entityframeworkcore.relational/6.0.0/microsoft.entityframeworkcore.relational.6.0.0.nupkg.sha512",
+    "/Users/macbookprom1devinicius/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/Users/macbookprom1devinicius/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/Users/macbookprom1devinicius/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/Users/macbookprom1devinicius/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/macbookprom1devinicius/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/macbookprom1devinicius/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/macbookprom1devinicius/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/macbookprom1devinicius/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/macbookprom1devinicius/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/macbookprom1devinicius/.nuget/packages/mysqlconnector/2.0.0/mysqlconnector.2.0.0.nupkg.sha512",
+    "/Users/macbookprom1devinicius/.nuget/packages/pomelo.entityframeworkcore.mysql/6.0.0/pomelo.entityframeworkcore.mysql.6.0.0.nupkg.sha512",
+    "/Users/macbookprom1devinicius/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
