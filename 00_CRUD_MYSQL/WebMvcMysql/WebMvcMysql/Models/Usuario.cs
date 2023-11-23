@@ -14,8 +14,8 @@ namespace WebMvcMysql.Models
 		[Column("Id")]
 		public int Id { get; set; }
 
-        Display(Name = "Código")]
-		[Column("Id")]
+        [Display(Name = "Nome")]
+		[Column("Nome")]
         public string Nome { get; set; }
 
 		public Usuario()
