@@ -1,11 +1,22 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Xml.Linq;
+
 namespace WebMvcMysql.Models
 {
+
+	[Table("Usuario")]
 	public class Usuario
 	{
 
+		[Display(Name = "Código")]
+		[Column("Id")]
 		public int Id { get; set; }
-		public string Nome { get; set; }
+
+        Display(Name = "Código")]
+		[Column("Id")]
+        public string Nome { get; set; }
 
 		public Usuario()
 		{
