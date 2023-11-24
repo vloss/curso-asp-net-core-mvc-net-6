@@ -2,24 +2,20 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.CRUD PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CRUD/Data/Contexto.cs">
-    <Files>
-      <File FileName="CRUD/Data/Contexto.cs" Line="14" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.ItemProperties.CRUD PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CRUD">
-            <Node name="CRUD">
+          <Node name="CRUD" expanded="True">
+            <Node name="CRUD" expanded="True">
               <Node name="Dependencies" expanded="True">
-                <Node name="FrameworkReferences" expanded="True" />
                 <Node name="PackageDependencies" expanded="True" />
               </Node>
-              <Node name="Data">
-                <Node name="Contexto.cs" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
               <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True" />
             </Node>
           </Node>
         </State>
