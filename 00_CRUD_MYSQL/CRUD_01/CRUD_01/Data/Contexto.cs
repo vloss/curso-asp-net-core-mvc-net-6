@@ -1,7 +1,7 @@
 ﻿using CRUD_01.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace WebMvcMysql.Data
+namespace CRUD_01.Data
 {
     public class Contexto : DbContext
     {

@@ -1,5 +1,5 @@
-﻿using CRUD_01.Data;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
+using CRUD_01.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
