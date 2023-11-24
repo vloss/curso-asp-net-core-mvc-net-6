@@ -1,16 +1,16 @@
-﻿using System;
+﻿using CRUD_01.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace CRUD_01.Data
+namespace WebMvcMysql.Data
 {
     public class Contexto : DbContext
     {
-        public Contexto(DbContextOptions<Contexto> options) : base(options)
-        {
+        public Contexto(DbContextOptions<Contexto> options)
+            : base(options)
+        { }
 
-        }
+        public DbSet<Usuario> Usuario { get; set; }
 
-        public DbSet<Models.Usuario> Usuario { get; set; }
     }
 }
 
