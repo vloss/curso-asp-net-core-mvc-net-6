@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/CRUD_MVC_AVALICAO.props" />
-</Project>
