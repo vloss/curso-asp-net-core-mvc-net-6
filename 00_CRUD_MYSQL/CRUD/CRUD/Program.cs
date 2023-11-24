@@ -1,9 +1,17 @@
-﻿var builder = WebApplication.CreateBuilder(args);
+﻿using CRUD.Data;
+using Microsoft.EntityFrameworkCore;
+
+var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
+
+builder.Services.AddDbContext<Contexto>
+(options => options.UseMySql(
+    "server=localhost;initial catalog=CRUD_MVC_MYSQL_AULA;uid=root;pwd=root",
+    Microsoft.EntityFrameworkCore.ServerVersion.Parse("5.7.39-mysql")));
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

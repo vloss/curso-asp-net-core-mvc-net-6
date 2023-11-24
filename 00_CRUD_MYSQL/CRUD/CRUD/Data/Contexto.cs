@@ -1,11 +1,16 @@
 ﻿using System;
+using Microsoft.EntityFrameworkCore;
+
 namespace CRUD.Data
 {
-	public class Contexto
+	public class Contexto : DbContext
 	{
-		public Contexto()
-		{
-		}
-	}
+        public Contexto(DbContextOptions<Contexto> options) : base(options)
+        {
+
+        }
+
+        public DbSet<Models.Usuario> Usuario { get; set; }
+    }
 }
 

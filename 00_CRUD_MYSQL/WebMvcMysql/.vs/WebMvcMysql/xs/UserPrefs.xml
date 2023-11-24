@@ -3,11 +3,20 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.WebMvcMysql PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebMvcMysql/Data/Contexto.cs">
+    <Files>
+      <File FileName="WebMvcMysql/Data/Contexto.cs" Line="8" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="WebMvcMysql" expanded="True" selected="True" />
+          <Node name="WebMvcMysql" expanded="True">
+            <Node name="WebMvcMysql" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="Contexto.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
