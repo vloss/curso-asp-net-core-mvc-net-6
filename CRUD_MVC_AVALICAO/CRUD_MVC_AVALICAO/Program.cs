@@ -1,9 +1,22 @@
-﻿var builder = WebApplication.CreateBuilder(args);
+﻿using System.Configuration;
+using CRUD_MVC_AVALICAO.Data;
+using Microsoft.EntityFrameworkCore;
+using MySqlConnector;
+
+var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
+
+//builder.Services.AddDbContext<Contexto>
+//    (options => options.UseMySql(
+//        "server=localhost;initial catalog=CRUD_MVC_AVALIACAO;uid=root;pwd=root",
+//        Microsoft.EntityFrameworkCore.ServerVersion.Parse("5.7.39-mysql")));
+
+
+builder.Services.AddMySqlDataSource(builder.Configuration.GetConnectionString("IdentityConnection")!);
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

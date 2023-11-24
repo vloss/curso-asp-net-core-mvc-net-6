@@ -2,6 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Xml.Linq;
+using Microsoft.EntityFrameworkCore;
 
 namespace CRUD_MVC_AVALICAO.Models
 {
@@ -29,5 +30,10 @@ namespace CRUD_MVC_AVALICAO.Models
 
 		}
 	}
+
+    public class ItemListContext : DbContext
+    {
+        public DbSet<ProdutoModel> itemListModel { get; set; }
+    }
 }
 
