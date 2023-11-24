@@ -1,35 +1,46 @@
 ﻿<Properties StartupConfiguration="{D22383C2-1FD9-4A1C-B182-80936C8BAC9A}|Default">
-  <MonoDevelop.Ide.ItemProperties.02__LachesMac PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="02_LachesMac/appsettings.json">
     <Files>
       <File FileName="02_LachesMac/Models/Categoria.cs" Line="13" Column="1" />
-      <File FileName="02_LachesMac/Models/Lanche.cs" Line="17" Column="29" />
-      <File FileName="02_LachesMac/02_LachesMac.csproj" Line="19" Column="71" />
-      <File FileName="02_LachesMac/Context/AppDbContext.cs" Line="12" Column="51" />
-      <File FileName="02_LachesMac/appsettings.json" Line="3" Column="23" />
-      <File FileName="02_LachesMac/Program.cs" Line="6" Column="1" />
+      <File FileName="02_LachesMac/Models/Lanche.cs" />
+      <File FileName="02_LachesMac/02_LachesMac.csproj" />
+      <File FileName="02_LachesMac/Context/AppDbContext.cs" />
+      <File FileName="02_LachesMac/appsettings.json" Line="3" Column="66" />
+      <File FileName="02_LachesMac/Program.cs" Line="9" Column="76" />
+      <File FileName="02_LachesMac/Views/Shared/_Carousel.cshtml" Line="1" Column="1" />
+      <File FileName="02_LachesMac/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="02_LachesMac/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="02_LachesMac/Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="02_LachesMac/Controllers/HomeController.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Option id="ShowAllFiles" value="True" />
-          <Node name="02_LachesMac">
-            <Node name="02_LachesMac">
-              <Node name="Context" expanded="True" />
+          <Node name="02_LachesMac" expanded="True">
+            <Node name="02_LachesMac" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
               <Node name="appsettings.json" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.02__LachesMac PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

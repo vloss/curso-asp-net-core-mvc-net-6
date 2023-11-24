@@ -1,4 +1,30 @@
 ﻿<Properties StartupConfiguration="{58DE91F7-6D3C-4D80-BB85-5E777BB7D61F}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CRUD_MVC_AVALICAO/Data/Contexto.cs">
+    <Files>
+      <File FileName="CRUD_MVC_AVALICAO/Data/Contexto.cs" Line="23" Column="38" />
+      <File FileName="CRUD_MVC_AVALICAO/Models/ProdutoModel.cs" Line="39" Column="1" />
+      <File FileName="CRUD_MVC_AVALICAO/Program.cs" Line="19" Column="64" />
+      <File FileName="CRUD_MVC_AVALICAO/appsettings.json" Line="12" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CRUD_MVC_AVALICAO" expanded="True">
+            <Node name="CRUD_MVC_AVALICAO" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.CRUD__MVC__AVALICAO FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CRUD__MVC__AVALICAO PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
